@@ -1,0 +1,57 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Medieval History"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "cad7fc30-8782-e51e-f508-70319d6615cb",
+  "instructors": {
+    "content": [
+      "4b59017c-92e6-cb8b-595e-843febee23b2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ccdbfa47-1b7c-c9b1-515e-89857cc16b45",
+    "website": "21h-306-the-emergence-of-europe-500-1300-fall-2003"
+  },
+  "course_title": "The Emergence of Europe: 500-1300",
+  "course_description": "This course surveys the social, cultural, and political development of western Europe between 500 and 1350. A number of topics are incorporated into the broad chronological sweep of the course, including: the Germanic conquest of the ancient Mediterranean world; the rise of a distinct northern culture and the Carolingian Renaissance; the emergence of feudalism and the breakdown of political order;\u00a0contact with the Byzantine and Islamic East and the Crusading movement; the quality of religious life; the vitality of the high medieval economy and culture; and the catastrophes of the fourteenth century.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.306",
+  "course_image_thumbnail": {
+    "content": "a9af0eeb-9388-b084-97a9-12f2f5de6bd5",
+    "website": "21h-306-the-emergence-of-europe-500-1300-fall-2003"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "bf494722-18ff-442c-b983-eb1134daf980",
+  "site_short_id": "21h.306-fall-2003",
+  "title": "Course Metadata"
+}
